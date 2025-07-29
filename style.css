@@ -1,1 +1,8 @@
 ol > li::marker{font-weight: bold;}
+body {
+    background-color: #E8FFD7;
+}
+header {
+    text-align: center;
+    background-color: #93DA97;
+}
